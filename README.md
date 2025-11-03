@@ -434,17 +434,11 @@ footer {
 
 
 ## OUTPUT:
-![alt text](<../rest/cookapp/static/Screenshot 2025-11-03 185925.png>)
-
-![alt text](<../rest/cookapp/static/Screenshot 2025-11-03 190052 - Copy.png>)
-
-![alt text](<../rest/cookapp/static/Screenshot 2025-11-03 190052.png>)
-
-![alt text](<../rest/cookapp/static/Screenshot 2025-11-03 190142.png>)
-
-![alt text](<../rest/cookapp/static/Screenshot 2025-11-03 190205.png>)
-
-
+![alt text](<Screenshot 2025-11-03 185925.png>)
+![alt text](<Screenshot 2025-11-03 190052.png>)
+![alt text](<Screenshot 2025-11-03 190142.png>)
+![alt text](<Screenshot 2025-11-03 190113.png>)
+![alt text](<Screenshot 2025-11-03 190205.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
